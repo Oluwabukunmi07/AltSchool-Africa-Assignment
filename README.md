@@ -1,6 +1,6 @@
 
 
-## 📘 Assignment 1: Basic Info Page
+##  Assignment 1: Basic Info Page
 
 **File:** `Assignment 1/index.html`
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📘 Assignment 2: Table + Media
+##  Assignment 2: Table + Media
 
 **Files:**
 - `table.html`: Table showing schools at AltSchool and their courses.
@@ -23,14 +23,14 @@ All media are stored inside the `Assets/` folder and linked using relative paths
 
 ---
 
-## 📝 Notes
+##  Notes
 - **No CSS** was used — strictly HTML as instructed.
 - All files are well-organized and internally linked where needed.
 - Assets are centralized for reusability.
 
 ---
 
-## 🧑🏽‍💻 Author
+##  Author
 
 - **Name:** Akinbisola Oluwabukunmi Precious  
 - **AltSchool ID:** ALT/SOE/025/4463  
