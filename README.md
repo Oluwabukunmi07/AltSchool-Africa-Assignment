@@ -2,7 +2,7 @@
 
 ##  Assignment 1: Basic Info Page
 
-**File:** `Assignment 1/index.html`
+**File:** `Assignment_1/index.html`
 
 **What it includes:**
 - My name, AltSchool ID, biography, reason for joining, and goals.
@@ -11,7 +11,7 @@
 
 ---
 
-##  Assignment 2: Table + Media
+##  Assignment_2: Table + Media
 
 **Files:**
 - `table.html`: Table showing schools at AltSchool and their courses.
