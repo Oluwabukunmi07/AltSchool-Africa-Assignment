@@ -1,33 +1,37 @@
 
 
-##  Assignment_1: Basic Info Page
+##  AltSchool Africa Assignment
 
-**File:** `Assignment_1/index.html`
-
-**What it includes:**
-- My name, AltSchool ID, biography, reason for joining, and goals.
-- A **fragment identifier** link (`#top`) to scroll back to the top of the page.
-- Links to navigate to Assignment 2 pages (optional).
-
+## Name: Akinbisola Oluwabukunmi Precious
+## AltSchool ID: ALT/SOE/025/4463
 ---
 
-##  Assignment_2: Table + Media
+##  Assignment 1: Basic Info Page
 
 **Files:**
-- `table.html`: Table showing schools at AltSchool and their courses.
-- `media.html`: Page with various HTML media elements:
-  - `<picture>` with 3+ responsive image sources
-  - `<audio>`, `<video>`, and `<img>`
+- Contains my bio, AltSchool ID, why I joined AltSchool Africa and my goals for the program.
+- Uses a fragment identifier for easy navigation to the top.
 
-All media are stored inside the `Assets/` folder and linked using relative paths.
+[Live Page](https://oluwabukunmi07.github.io/AltSchool-Africa-Assignment/)
 
 ---
+###  Assignment 2: Media & Table Pages
 
-##  Notes
+####  Media Page
+A showcase using all HTML media elements — including the `<picture>` element for responsiveness (mobile, tablet, and desktop), plus audio and video files.
+
+ [Media Page](https://oluwabukunmi07.github.io/AltSchool-Africa-Assignment/Assignment_2/media.html)
+
+####  Table Page
+A table of all the schools and courses at AltSchool Africa.
+
+ [Table Page](https://oluwabukunmi07.github.io/AltSchool-Africa-Assignment/Assignment_2/table.html)
+
+
 - **No CSS** was used — strictly HTML as instructed.
 - All files are well-organized and internally linked where needed.
 - Assets are centralized for reusability.
-
+## 
 ---
 
 ##  Author
