@@ -1,6 +1,6 @@
 
 
-##  Assignment 1: Basic Info Page
+##  Assignment_1: Basic Info Page
 
 **File:** `Assignment_1/index.html`
 
